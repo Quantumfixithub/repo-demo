@@ -1,2 +1,2 @@
-# webdev_Lab1
-Creating a repo demo
+# repo demo
+Creating a webdev_Lab1
